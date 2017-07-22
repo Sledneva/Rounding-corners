@@ -1,0 +1,36 @@
+c:\users\yanatashamne16\documents\visual studio 2015\Projects\KG2\KG2\bin\Debug\KG2.exe.config
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\KG2\KG2\bin\Debug\KG2.exe
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\KG2\KG2\bin\Debug\KG2.pdb
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\KG2\KG2\obj\Debug\KG2.csprojResolveAssemblyReference.cache
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\KG2\KG2\obj\Debug\KG2.Form1.resources
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\KG2\KG2\obj\Debug\KG2.Properties.Resources.resources
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\KG2\KG2\obj\Debug\KG2.csproj.GenerateResource.Cache
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\KG2\KG2\obj\Debug\KG2.exe
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\KG2\KG2\obj\Debug\KG2.pdb
+D:\KG2\KG2\bin\Debug\KG2.exe.config
+D:\KG2\KG2\obj\Debug\KG2.exe
+D:\KG2\KG2\obj\Debug\KG2.pdb
+D:\KG2\KG2\bin\Debug\KG2.exe
+D:\KG2\KG2\bin\Debug\KG2.pdb
+D:\KG2\KG2\obj\Debug\KG2.csprojResolveAssemblyReference.cache
+D:\KG2\KG2\obj\Debug\KG2.Form1.resources
+D:\KG2\KG2\obj\Debug\KG2.Properties.Resources.resources
+D:\KG2\KG2\obj\Debug\KG2.csproj.GenerateResource.Cache
+C:\Users\YaNatashaMne16\Downloads\KG2_-_Vosstanie\KG2\KG2\bin\Debug\KG2.exe.config
+C:\Users\YaNatashaMne16\Downloads\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.exe
+C:\Users\YaNatashaMne16\Downloads\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.pdb
+C:\Users\YaNatashaMne16\Downloads\KG2_-_Vosstanie\KG2\KG2\bin\Debug\KG2.exe
+C:\Users\YaNatashaMne16\Downloads\KG2_-_Vosstanie\KG2\KG2\bin\Debug\KG2.pdb
+C:\Users\YaNatashaMne16\Downloads\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.csprojResolveAssemblyReference.cache
+C:\Users\YaNatashaMne16\Downloads\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.Form1.resources
+C:\Users\YaNatashaMne16\Downloads\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.Properties.Resources.resources
+C:\Users\YaNatashaMne16\Downloads\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.csproj.GenerateResource.Cache
+C:\Users\YaNatashaMne16\Desktop\KG2_-_Vosstanie\KG2\KG2\bin\Debug\KG2.exe.config
+C:\Users\YaNatashaMne16\Desktop\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.exe
+C:\Users\YaNatashaMne16\Desktop\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.pdb
+C:\Users\YaNatashaMne16\Desktop\KG2_-_Vosstanie\KG2\KG2\bin\Debug\KG2.exe
+C:\Users\YaNatashaMne16\Desktop\KG2_-_Vosstanie\KG2\KG2\bin\Debug\KG2.pdb
+C:\Users\YaNatashaMne16\Desktop\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.csprojResolveAssemblyReference.cache
+C:\Users\YaNatashaMne16\Desktop\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.Form1.resources
+C:\Users\YaNatashaMne16\Desktop\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.Properties.Resources.resources
+C:\Users\YaNatashaMne16\Desktop\KG2_-_Vosstanie\KG2\KG2\obj\Debug\KG2.csproj.GenerateResource.Cache
